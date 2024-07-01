@@ -39,7 +39,34 @@ CHAT_ID = 'YOUR_CHAT_ID_HERE'
 motivational_messages = [
     "Believe you can and you're halfway there.",
     "You are stronger than you think, more capable than you imagine.",
-    "Every day is a new opportunity to improve."
+    "Each day is a new opportunity to improve.",
+    "Never underestimate your power to change yourself.",
+    "You are amazing just the way you are.",
+    "Success is the sum of small efforts repeated day in and day out.",
+    "Be the change you wish to see in the world.",
+    "Your only limit is you.",
+    "Persistence is the path to success.",
+    "Happiness is not something ready made. It comes from your own actions.",
+    "You have the power to create the life you desire.",
+    "Everything is possible for those who believe.",
+    "You are capable of amazing things.",
+    "Believe in your potential and you will be unstoppable.",
+    "Every challenge is an opportunity in disguise.",
+    "Success is the sum of small efforts, repeated day in and day out.",
+    "Life is 10% what happens to us and 90% how we react to it.",
+    "You are stronger than any obstacle.",
+    "The future belongs to those who believe in the beauty of their dreams.",
+    "If you can dream it, you can achieve it.",
+    "Believe in yourself and all that you are.",
+    "Failure is just the opportunity to begin again, this time more intelligently.",
+    "You are the architect of your own destiny.",
+    "Believe you can and you're halfway there.",
+    "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "You are unique and special.",
+    "It's never too late to be what you might have been.",
+    "Optimism is the faith that leads to achievement.",
+    "Don't wait for opportunities. Create them.",
+    "You are braver than you believe, stronger than you seem, and smarter than you think."
 ]
 
 # Configure logging
