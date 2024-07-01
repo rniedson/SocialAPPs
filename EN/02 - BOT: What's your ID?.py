@@ -26,7 +26,7 @@ import telepot
 import time
 
 # Replace with your Telegram bot token
-TOKEN = '6919153576:AAEZqCdeNsDlhZtSYdmJq9uFycLJe-YoYJM'
+TOKEN = ''
 
 # Function to handle incoming messages
 def handle(msg):
