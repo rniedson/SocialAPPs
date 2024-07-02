@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Define the bot token provided by BotFather
-TOKEN = '6919153576:AAEZqCdeNsDlhZtSYdmJq9uFycLJe-YoYJM'
+TOKEN = ''
 
 # List of image file paths and corresponding messages
 image_info = [
