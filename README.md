@@ -1,7 +1,7 @@
-**BotForge**
+**SocialApps**
 
 #### Description:
-Welcome to BotForge, a collaborative repository for creating, deploying, and managing bots for Telegram, Discord, Twitter, and Web3 integration. Our goal is to enhance productivity, efficiency, and engagement through practical bot solutions. Whether you're a beginner or an experienced developer, BotForge offers clear guides and projects to help you on your bot development journey.
+Welcome to SocialApps, a collaborative repository for creating, deploying, and managing bots for Telegram, Discord, Twitter, and Web3 integration. Our goal is to enhance productivity, efficiency, and engagement through practical bot solutions. Whether you're a beginner or an experienced developer, BotForge offers clear guides and projects to help you on your bot development journey.
 
 #### Features:
 - **Step-by-Step Guides**: Easy-to-follow tutorials for building bots on different platforms like Telegram, Discord, Twitter, and Web3.
